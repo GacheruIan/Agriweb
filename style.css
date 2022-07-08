@@ -1,0 +1,61 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.main-container
+{
+background-color:#161514;
+width: 100%;
+}
+.header, h1
+{
+color:white;
+
+}
+#btn
+{
+background-color: orange;
+color: white; 
+}
+.links > ul > li
+{
+align-items: center;
+text-decoration: none;
+color: white;
+display: inline-block;
+}
+.Login
+{
+color: white;
+}
+
+.mid-section 
+{
+	padding-top: 160px;
+	width: 80%;
+	margin: auto;
+}
+.sec-1
+{
+	display: flex;
+	align-items: center;
+}
+.sec-title > h1 {
+	color: black;
+	font-size: 50px;
+	font-weight: 500;
+}
+.sec-title > p {
+	font-size: 25px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-weight: 400;
+	color: grey;
+}
+.Explore{
+	background-color: rgb(255, 166, 0);
+	color: white;
+	text-align: center;
+    font-size: 16px;
+    padding: 15px 32px;
+}
