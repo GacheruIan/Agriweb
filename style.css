@@ -84,7 +84,19 @@ align-items: center;
 justify-content: center;
 text-align: center;
   }
-  .offers-options-cards {
+  .product-section {
+	margin: 90px auto 0;
+}
+.product-title {
+	color: #0f298b;
+	font-size: 25px;
+	font-weight: 500;
+}
+
+.product-section .products-options {
+	text-align: center;
+}
+.offers-options-cards {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
@@ -127,4 +139,19 @@ text-align: center;
 	font-weight: 450;
 	margin-top: 20px;
 	color: grey;
+}
+.product-sub-ttl {
+	font-size: 25px;
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+.checked {
+	color: orange;
+  }
+.unchecked
+{
+	color: gray;
+}
+.hr{
+	background-color: red;
 }
