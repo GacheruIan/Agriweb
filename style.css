@@ -148,11 +148,20 @@ text-align: center;
 .checked {
 	color: orange;
   }
-  
+
 .unchecked
 {
 	color: gray;
 }
 .hr{
 	background-color: red;
+}
+#readmore
+{
+float: right;
+}
+span {
+    content: "\27F6";
+	color: orange;
+	
 }
