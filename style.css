@@ -9,6 +9,7 @@ width: 100%;
 display: flex;
 align-items: center;
 justify-content: center;
+text-align: center;
 }
 .header, h1
 {
@@ -55,5 +56,75 @@ color: white;
 	color: white;
 	text-align: center;
     font-size: 16px;
-    padding: 15px 32px;
+    padding: 15px 12px;
+}
+.box-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .box-wrapper > div {
+    margin: 20px;
+    border: 1px solid rgb(17, 3, 3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex: 1 0 20%;
+    line-height: 1.4em;
+    height: 80px;
+   	width: 30px;
+	flex: space-between;
+  }
+  .div, .most-popular
+  {
+width: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+  }
+  .offers-options-cards {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.offers-options-cards .card-option {
+	width: 30%;
+	max-width: 30%;
+	background-color: #fff;
+	margin: auto;
+	text-align: center;
+	justify-content: center;
+	display: block;
+	height: 300px;
+	padding: 30px;
+	margin: 15px;
+}
+.offers-options-cards .card-option:hover {
+	box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px,
+		rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+	cursor: pointer;
+}
+.img-card-option {
+	height: 100px;
+	width: 100%;
+	justify-content: center;
+}
+.img-card-option > img {
+	height: inherit;
+	margin: 0 auto;
+}
+
+.more-about-des > h3 {
+	font-size: 30px;
+	font-weight: 500;
+	margin-top: 20px;
+}
+.more-about-des > p {
+	font-size: 18px;
+	font-weight: 450;
+	margin-top: 20px;
+	color: grey;
 }
