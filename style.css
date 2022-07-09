@@ -6,6 +6,9 @@
 {
 background-color:#161514;
 width: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
 }
 .header, h1
 {
@@ -34,11 +37,6 @@ color: white;
 	padding-top: 160px;
 	width: 80%;
 	margin: auto;
-}
-.sec-1
-{
-	display: flex;
-	align-items: center;
 }
 .sec-title > h1 {
 	color: black;
