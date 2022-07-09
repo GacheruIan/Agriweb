@@ -17,4 +17,4 @@ program setup instructions - The project was created using 2 languages:- a)html.
                                                                          
 link to the site on GitHub Pages - https://gacheruian.github.io/Agriweb/
 
-copyright and license information - N/A
+copyright and license information - MIT License.
