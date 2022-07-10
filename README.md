@@ -13,8 +13,7 @@ link to the site on GitHub Pages - https://gacheruian.github.io/Agriweb/
 
 program setup instructions - The project was created using 2 languages:- a)html.
                                                                          b)css.
-                              
-                                                                         
+                                                                                                     
 link to the site on GitHub Pages - https://gacheruian.github.io/Agriweb/
 
 copyright and license information - MIT License. 
