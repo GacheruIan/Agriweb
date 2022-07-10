@@ -1,7 +1,7 @@
 # Agriplus Website
 author-name - Ian Gacheru Kibue.
 
-project or program name-Agriplus Website project(Vallie Estate).
+project or program name-Agriplus Website project.
 
 description of program - A landing page for a simple agri~related website that is built to render a platform to facilitate interaction between farmes and customers, it also shows a variety of cereals and grains together with their prices. The feedback section displays the ratings and feedbacks acquired from the customers. 
  
