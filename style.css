@@ -146,8 +146,7 @@ float: right;
 }
 span {
     content: "\27F6";
-	color: orange;
-	
+	color: orange;	
 }
 /*head section*/
 .nav-prim-bar {
@@ -215,6 +214,7 @@ align-items: center;
 justify-content: center;
 float:right;
 }
+<<<<<<< HEAD
 #last
 {
 background-color: #161514;
@@ -224,3 +224,5 @@ height: 200px;
 display: inline-block;
 
 }
+=======
+>>>>>>> 957ee156960d17591bba885daf802608b3c5c6a8
