@@ -162,10 +162,6 @@ span {
 	
 }
 /*head section*/
-container {
-	background-color: #fafafa;
-	width: 100%;
-}
 .nav-prim-bar {
 	background-color: inherit;
 	width: 1290px;
@@ -224,4 +220,10 @@ hr {
 }
 #getstarted-btn {
 	cursor: pointer;
+}
+#id
+{
+align-items: center;
+justify-content: center;
+float:right;
 }
