@@ -1,0 +1,173 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+@media(max-width:480px){
+  .all-container{
+    grid-template-columns: 100%;
+  }
+}
+.all-container
+{
+  max-width: 1510px;
+  margin: auto;
+}
+.nav-container
+{
+    padding: 1%;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    
+    
+   
+
+}
+.nav-tabs > ul > li > a
+{
+    display: flex;
+    text-decoration: none;
+    color:white;
+    display: inline-block;
+    margin-left: 40px;
+    
+}
+.nav-tabs > ul > li > a:hover
+{
+    color:orange;
+}
+.nav-tabs > ul 
+{
+    display: flex;
+    justify-content:space-around;
+
+}
+.logo-head
+{
+    color: white;
+}
+#login-button
+{
+    background-color: rgb(255, 123, 0);
+    color: white;
+}
+#getstarted-button
+{
+  background-color: rgb(255, 123, 0);
+  color: white;
+
+  
+    
+}
+#getstarted-button:hover
+{
+    background: orange;
+}
+#explore-more
+{
+    background-color: rgb(255, 123, 0);
+    color: white;
+    padding: 1%;
+    
+}
+.section1
+{
+padding-left: 10%;
+margin: 5%;
+background-image:url("assets/img/image 3.png");
+}
+#image2
+{
+    display: flex;
+    justify-content: right;
+    margin: -50%;
+    padding: 50%;
+    margin-top: -75%;
+    
+}
+.background-img
+ {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+  }
+.mid-rectangle
+{
+display: flex;
+border: 5px solid red;
+border-width: 5px;
+}
+
+.rectangle {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 200px;
+    width: 800px;
+    background-color:white;
+  }
+  #rectangle-mid
+  {
+    display: flex;
+    justify-content: center;
+  }
+  .existence
+  {
+    padding: 3%;
+    margin: 3%;
+    position: relative;
+    left: 150px;
+    top:-60px;
+  }
+  .existence1
+  {
+    padding: 5%;
+    margin: 0%;
+    position: relative;
+    left: 500px;
+    top:-400px;
+  }
+  #img2
+  {
+    position: relative;
+    left:500px;
+    top:-250px;
+  }
+  #most-popular > h1
+  {
+    padding: 5%;
+    position: relative;
+    left: 100px;
+    top:-400px
+  }
+.greens-container
+{
+  padding: 5%;
+  position: relative;
+  left: -10px;
+  top:-500px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.greens-container1
+{
+  padding: 5%;
+  position: relative;
+  left: -10px;
+  top:-650px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.greens-container1:hover
+{
+  background-color: white;
+}
+#newest-item
+{
+  padding: 5%;
+  position: relative;
+  left: 100px;
+  top:-560px;
+}
